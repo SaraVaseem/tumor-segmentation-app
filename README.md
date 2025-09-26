@@ -97,8 +97,8 @@ This project bridges **AI research and real-world usability** by combining a sta
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/brain-tumor-segmentation.git
-cd brain-tumor-segmentation/backend
+git clone https://github.com/SaraVaseem/tumor-segmentation-app.git
+cd tumor-segmentation-app/server
 
 # Install dependencies
 pip install -r requirements.txt
@@ -110,7 +110,7 @@ python app.py
 ### Frontend (Next.js)
 
 ```bash
-cd ../frontend
+cd ../src/app
 
 # Install dependencies
 npm install
